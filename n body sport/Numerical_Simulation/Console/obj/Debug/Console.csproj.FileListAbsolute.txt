@@ -1,0 +1,10 @@
+E:\n body sport\Numerical_Simulation\Console\bin\Debug\Console.exe.config
+E:\n body sport\Numerical_Simulation\Console\bin\Debug\Console.exe
+E:\n body sport\Numerical_Simulation\Console\bin\Debug\Console.pdb
+E:\n body sport\Numerical_Simulation\Console\bin\Debug\core.dll
+E:\n body sport\Numerical_Simulation\Console\bin\Debug\core.pdb
+E:\n body sport\Numerical_Simulation\Console\obj\Debug\Console.csprojAssemblyReference.cache
+E:\n body sport\Numerical_Simulation\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+E:\n body sport\Numerical_Simulation\Console\obj\Debug\Console.csproj.CopyComplete
+E:\n body sport\Numerical_Simulation\Console\obj\Debug\Console.exe
+E:\n body sport\Numerical_Simulation\Console\obj\Debug\Console.pdb

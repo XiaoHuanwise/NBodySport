@@ -1,0 +1,6 @@
+E:\n body sport\Numerical_Simulation\core\bin\Debug\core.dll
+E:\n body sport\Numerical_Simulation\core\bin\Debug\core.pdb
+E:\n body sport\Numerical_Simulation\core\obj\Debug\N_body_sport.csprojAssemblyReference.cache
+E:\n body sport\Numerical_Simulation\core\obj\Debug\N_body_sport.csproj.CoreCompileInputs.cache
+E:\n body sport\Numerical_Simulation\core\obj\Debug\core.dll
+E:\n body sport\Numerical_Simulation\core\obj\Debug\core.pdb
